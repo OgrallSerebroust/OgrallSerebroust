@@ -6,8 +6,10 @@
 <div align="center">
     Feel free and take a look at my GitHub account below!
 </div>
-
-### My Skills
+<h2>
+    My Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" />:
+</h2>
+<img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python">
 
 <!--
 **OgrallSerebroust/OgrallSerebroust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
