@@ -1,8 +1,13 @@
 <h1 align="center">
-    Hi there, I'm <a href="https://stefplotva.ru/">
-        Ograll
-    </a> 
+    𝘏𝘦𝘭𝘭𝘰 𝘦𝘷𝘦𝘳𝘺𝘰𝘯𝘦! 𝘐'𝘮 𝘚𝘵𝘦𝘧𝘢𝘯 𝘒𝘭𝘦𝘱𝘪𝘬𝘰𝘸, 𝘢𝘬𝘢 <a href="https://stefplotva.ru/">
+        𝘖𝘨𝘳𝘢𝘭𝘭
+    </a>.
 </h1>
+<div align="center">
+    Feel free and take a look at my GitHub account below!
+</div>
+
+### My Skills
 
 <!--
 **OgrallSerebroust/OgrallSerebroust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
