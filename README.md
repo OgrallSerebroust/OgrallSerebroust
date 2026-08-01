@@ -12,7 +12,7 @@
 <h2>
     My Skills :computer::
 </h2>
-<div>
+<div align="center">
     <img alt="Python" src="https://www.svgrepo.com/show/452091/python.svg" width="50">
     <img alt="Django" src="https://www.svgrepo.com/show/373554/django.svg" width="50">
     <img alt="PHP" src="https://www.svgrepo.com/show/349474/php.svg" width="50">
