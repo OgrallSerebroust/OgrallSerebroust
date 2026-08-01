@@ -19,7 +19,7 @@
     <img alt="HTML" src="https://www.svgrepo.com/show/452228/html-5.svg" width="50">
     <img alt="CSS" src="https://www.svgrepo.com/show/452185/css-3.svg" width="50">
     <img alt="SQL" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="50">
-    <img alt="MongoDB" src="https://www.svgrepo.com/svg/331488/mongodb" width="50">
+    <img alt="MongoDB" src="https://www.svgrepo.com/svg/331488/mongodb.svg" width="50">
     <img alt="Neo4j" src="https://www.svgrepo.com/show/354103/neo4j.svg" width="50">
     <img alt="ClickHouse" src="https://static.cdnlogo.com/logos/c/57/clickhouse.svg" width="50">
     <img alt="Redis" src="https://www.svgrepo.com/show/354272/redis.svg" width="50">
