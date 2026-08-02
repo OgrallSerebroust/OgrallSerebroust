@@ -33,7 +33,7 @@
     My GitHub statistics :bar_chart::
 </h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=OgrallSerebroust)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OgrallSerebroust" alt="GitHub Streak"/></a> -->
 
