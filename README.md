@@ -29,6 +29,12 @@
     <img alt="Docker" src="https://www.svgrepo.com/show/452192/docker.svg" width="50">
     <img alt="Git" src="https://www.svgrepo.com/show/452210/git.svg" width="50">
 </div>
+<h2>
+    My GitHub statistics :bar_chart::
+</h2>
+<div align="center">
+    [![trophy](https://github-profile-trophy.vercel.app/?username=OgrallSerebroust)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 <!--
 **OgrallSerebroust/OgrallSerebroust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
