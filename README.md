@@ -36,29 +36,27 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=OgrallSerebroust)](https://git.io/streak-stats)
 
 <div>
+<picture>
+  <source
+      srcset="https://github-stats-extended.vercel.app/api?username=OgrallSerebroust&show_icons=true&theme=holi"
+      media="(prefers-color-scheme: dark)"
+  />
+  <img width="300" src="https://github-stats-extended.vercel.app/api?username=OgrallSerebroust&show_icons=true" /> <!-- light mode -->
+</picture>
+<picture>
+  <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=OgrallSerebroust"
+      media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=OgrallSerebroust" /> <!-- light mode -->
+</picture>
+</div>
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=OgrallSerebroust&show_icons=true&theme=holi)](https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only)
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=OgrallSerebroust&show_icons=true)](https://github.com/stats-organization/github-stats-extended#gh-light-mode-only)
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=OgrallSerebroust)](https://github.com/stats-organization/github-stats-extended)
-
-</div>
-<div>
-<picture>
-  <source
-      srcset="https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true" /> <!-- light mode -->
-</picture><picture>
-  <source
-      srcset="https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true" /> <!-- light mode -->
-</picture>
-</div>
 
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OgrallSerebroust" alt="GitHub Streak"/></a> -->
 
