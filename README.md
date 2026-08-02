@@ -33,9 +33,9 @@
     My GitHub statistics :bar_chart::
 </h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=OgrallSerebroust)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=OgrallSerebroust)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=OgrallSerebroust)](https://github.com/stats-organization/github-stats-extended)
 
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OgrallSerebroust" alt="GitHub Streak"/></a> -->
 
