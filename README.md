@@ -32,7 +32,10 @@
 <h2>
     My GitHub statistics :bar_chart::
 </h2>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OgrallSerebroust" alt="GitHub Streak"/></a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=OgrallSerebroust)](https://git.io/streak-stats)
+
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OgrallSerebroust" alt="GitHub Streak"/></a> -->
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=OgrallSerebroust)(https://github.com/ryo-ma/github-profile-trophy) -->
 
