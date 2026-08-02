@@ -43,7 +43,9 @@
     </picture>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=OgrallSerebroust)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OgrallSerebroust)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=OgrallSerebroust)](https://git.io/streak-stats) -->
 
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OgrallSerebroust" alt="GitHub Streak"/></a> -->
 
