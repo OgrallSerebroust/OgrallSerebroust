@@ -32,25 +32,18 @@
 <h2>
     My GitHub statistics :bar_chart::
 </h2>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=OgrallSerebroust)](https://git.io/streak-stats)
-
 <div align="center">
     <picture>
         <source srcset="https://github-stats-extended.vercel.app/api?username=OgrallSerebroust&show_icons=true&theme=holi" media="(prefers-color-scheme: dark)" />
         <img src="https://github-stats-extended.vercel.app/api?username=OgrallSerebroust&show_icons=true" /> <!-- light mode -->
     </picture>
     <picture>
-        <source srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=OgrallSerebroust" media="(prefers-color-scheme: dark)" />
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=OgrallSerebroust" /> <!-- light mode -->
+        <source srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=OgrallSerebroust&layout=donut&theme=holi" media="(prefers-color-scheme: dark)" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=OgrallSerebroust&layout=donut" /> <!-- light mode -->
     </picture>
 </div>
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=OgrallSerebroust&show_icons=true&theme=holi)](https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only)
-
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=OgrallSerebroust&show_icons=true)](https://github.com/stats-organization/github-stats-extended#gh-light-mode-only)
-
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=OgrallSerebroust)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=OgrallSerebroust)](https://git.io/streak-stats)
 
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OgrallSerebroust" alt="GitHub Streak"/></a> -->
 
