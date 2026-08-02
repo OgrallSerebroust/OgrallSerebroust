@@ -37,6 +37,8 @@
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=OgrallSerebroust&show_icons=true&theme=holi)](https://github.com/stats-organization/github-stats-extended#gh-dark-mode-only)
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=OgrallSerebroust&show_icons=true)](https://github.com/stats-organization/github-stats-extended#gh-light-mode-only)
+
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OgrallSerebroust" alt="GitHub Streak"/></a> -->
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=OgrallSerebroust)(https://github.com/ryo-ma/github-profile-trophy) -->
