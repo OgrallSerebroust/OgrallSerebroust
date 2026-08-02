@@ -33,7 +33,7 @@
     My GitHub statistics :bar_chart::
 </h2>
 <div align="center">
-    [![trophy](https://github-profile-trophy.vercel.app/?username=OgrallSerebroust)](https://github.com/ryo-ma/github-profile-trophy)
+    ![trophy](https://github-profile-trophy.vercel.app/?username=OgrallSerebroust)
 </div>
 
 <!--
