@@ -34,8 +34,8 @@
 </h2>
 <div align="center">
     <picture>
-        <source srcset="https://github-stats-extended.vercel.app/api?username=OgrallSerebroust&show_icons=true&theme=holi" media="(prefers-color-scheme: dark)" />
-        <img src="https://github-stats-extended.vercel.app/api?username=OgrallSerebroust&show_icons=true" /> <!-- light mode -->
+        <source srcset="https://github-stats-extended.vercel.app/api?username=OgrallSerebroust&show=prs_authored,prs_merged,prs_merged_percentage&show_icons=true&theme=holi" media="(prefers-color-scheme: dark)" />
+        <img src="https://github-stats-extended.vercel.app/api?username=OgrallSerebroust&show=prs_authored,prs_merged,prs_merged_percentage&show_icons=true" /> <!-- light mode -->
     </picture>
     <picture>
         <source srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=OgrallSerebroust&layout=donut&theme=holi" media="(prefers-color-scheme: dark)" />
