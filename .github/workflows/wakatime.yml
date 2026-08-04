@@ -11,6 +11,10 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
+          BAR_COLOR: "#5FABEE"
+          BAR_RADIUS: "5"
+          BAR_STYLE: "svg"
+          BAR_TRACK_COLOR: "#152440"
           COMMIT_BY_ME: "True"
           COMMIT_EMAIL: "stefplotva@gmail.com"
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -32,4 +36,6 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_UPDATED_DATE: "False"
+          TEXT_PRIMARY_COLOR: "#5FABEE"
+          TEXT_SECONDARY_COLOR: "#152440"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
