@@ -49,6 +49,91 @@
 Test pies:
 </h2>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%205%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-237.09%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 47 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 2 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+🌆 Daytime                51 commits          █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+🌃 Evening                114 commits         ████████████░░░░░░░░░░░░░   48.51 % 
+🌙 Night                  56 commits          ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Tuesday                  22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Wednesday                35 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Thursday                 27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Friday                   62 commits          ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+Saturday                 26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Sunday                   35 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 3 hrs 34 mins       ██████████████████░░░░░░░   71.40 % 
+TypeScript               1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   26.44 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Prolog                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 59 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+OgrallSerebroust         3 hrs 33 mins       ██████████████████░░░░░░░   71.29 % 
+TaskForLaretto           1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   28.23 % 
+Prolog-for-studing       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+my_python_projects       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+web_for_myself           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+
+💻 Operating System: 
+Windows                  4 hrs 59 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   9 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+CSS                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Prolog                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/OgrallSerebroust/OgrallSerebroust/main/assets/bar_graph.png)
+
 
 <!--END_SECTION:waka-->
 
