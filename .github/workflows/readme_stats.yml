@@ -8,12 +8,19 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v6
-      - name: Download stats card
+      - name: Create assets directory if it doesn't exist
+        run: mkdir -p assets
+      - name: Download stats cards
         run: |
-          mkdir -p assets
-          curl --fail --location \
-          "https://github-stats-extended-silk.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=holi&show=prs_authored,prs_merged,prs_merged_percentage" \
-          -o assets/stats-dark.svg
+          cards=(
+            "api|stats-dark.svg|show_icons=true&theme=holi&show=prs_authored,prs_merged,prs_merged_percentage"
+          )
+          for card in "${cards[@]}"; do
+            IFS="|" read -r endpoint output params <<< "$card"
+            curl --fail --location \
+            "https://github-stats-extended-silk.vercel.app/${endpoint}?username=${{ github.repository_owner }}&${params}" \
+            -o "assets/${output}"
+          done
       - name: Commit downloaded cards
         run: |
           git config user.name "github-actions[bot]"
