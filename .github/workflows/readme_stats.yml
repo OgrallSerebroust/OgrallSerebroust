@@ -8,14 +8,13 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v6
-      - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=holi&show=prs_authored,prs_merged,prs_merged_percentage
-          path: assets/stats.svg
-          token: ${{ secrets.GH_TOKEN }}
-      - name: Commit cards
+      - name: Download stats card
+        run: |
+          mkdir -p assets
+          curl --fail --location \
+          "https://github-stats-extended-silk.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=holi&show=prs_authored,prs_merged,prs_merged_percentage" \
+          -o assets/stats-dark.svg
+      - name: Commit downloaded cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
