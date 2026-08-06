@@ -14,6 +14,7 @@ jobs:
         run: |
           cards=(
             "api|stats-dark.svg|show_icons=true&theme=holi&show=prs_authored,prs_merged,prs_merged_percentage"
+            "api|stats-light.svg|show_icons=true&theme=default&show=prs_authored,prs_merged,prs_merged_percentage"
           )
           for card in "${cards[@]}"; do
             IFS="|" read -r endpoint output params <<< "$card"
