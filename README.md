@@ -71,21 +71,21 @@ My weekly coding statistic breakdown :muscle::
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-🌆 Daytime                97 commits          █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-🌃 Evening                317 commits         ████████████████░░░░░░░░░   64.43 % 
-🌙 Night                  64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+🌞 Morning                14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+🌆 Daytime                99 commits          █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+🌃 Evening                331 commits         ████████████████░░░░░░░░░   65.16 % 
+🌙 Night                  64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Tuesday                  80 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Wednesday                47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-Thursday                 31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-Friday                   74 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Saturday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Sunday                   143 commits         ███████░░░░░░░░░░░░░░░░░░   29.07 % 
+Monday                   75 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Tuesday                  80 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Wednesday                47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Thursday                 31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Friday                   74 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Saturday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Sunday                   143 commits         ███████░░░░░░░░░░░░░░░░░░   28.15 % 
 ```
 
 
