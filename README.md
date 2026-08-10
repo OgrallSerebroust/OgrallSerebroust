@@ -50,8 +50,6 @@ My weekly coding statistic breakdown :muscle::
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%205%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-237.09%20thousand%20lines%20of%20code-blue?style=flat)
@@ -60,32 +58,32 @@ My weekly coding statistic breakdown :muscle::
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 53 Contributions in the Year 2026
+> 🏆 63 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 2 Public Repositories 
+> 📜 4 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-🌆 Daytime                61 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-🌃 Evening                206 commits         ███████████████░░░░░░░░░░   60.41 % 
-🌙 Night                  60 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+🌞 Morning                14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+🌆 Daytime                94 commits          █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+🌃 Evening                300 commits         ████████████████░░░░░░░░░   63.56 % 
+🌙 Night                  64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Tuesday                  52 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Wednesday                35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Thursday                 27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Friday                   68 commits          █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
-Saturday                 42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Sunday                   89 commits          ███████░░░░░░░░░░░░░░░░░░   26.10 % 
+Monday                   39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Tuesday                  80 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Wednesday                47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Thursday                 31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Friday                   74 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Saturday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Sunday                   143 commits         ████████░░░░░░░░░░░░░░░░░   30.30 % 
 ```
 
 
@@ -93,24 +91,17 @@ Sunday                   89 commits          ███████░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 34 mins       ██████████████████░░░░░░░   71.40 % 
-TypeScript               1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-Prolog                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+YAML                     3 hrs 37 mins       ██████████████████░░░░░░░   72.08 % 
+Markdown                 1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   27.92 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-OgrallSerebroust         3 hrs 33 mins       ██████████████████░░░░░░░   71.29 % 
-TaskForLaretto           1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   28.23 % 
-Prolog-for-studing       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-my_python_projects       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-web_for_myself           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+OgrallSerebroust         5 hrs 1 min         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
