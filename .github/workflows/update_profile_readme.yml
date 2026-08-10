@@ -34,13 +34,6 @@ jobs:
           curl --fail --location \
             "${GRAPH_API_URL}/graph?username=${{ github.repository_owner }}&theme=react-dark" \
             -o "assets/contribution_graph_dark.svg"
-      - name: Check changes before WakaTime
-        run: |
-          echo "=== Git status ==="
-          git status --short
-          
-          echo "=== Git diff ==="
-          git diff --stat
       - name: Update WakaTime stats
         uses: OgrallSerebroust/waka-readme-stats@feature/commit_enabled
         with:
@@ -65,22 +58,6 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_UPDATED_DATE: "False"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-      - name: Inspect workspace
-        run: |
-          echo "=== pwd ==="
-          pwd
-
-          echo "=== workspace ==="
-          ls -la
-
-          echo "=== README ==="
-          git status --short
-          git diff -- README.md
-
-          echo "=== directories ==="
-          find . -maxdepth 3 -type f -name "README.md" -print
-      - name: Copy WakaTime README
-        run: cp repo/README.md README.md
       - name: Commit profile README changes
         run: |
           git config user.name "github-actions[bot]"
