@@ -34,6 +34,13 @@ jobs:
           curl --fail --location \
             "${GRAPH_API_URL}/graph?username=${{ github.repository_owner }}&theme=react-dark" \
             -o "assets/contribution_graph_dark.svg"
+      - name: Check changes before WakaTime
+        run: |
+          echo "=== Git status ==="
+          git status --short
+          
+          echo "=== Git diff ==="
+          git diff --stat
       - name: Update WakaTime stats
         uses: anmol098/waka-readme-stats@master
         with:
