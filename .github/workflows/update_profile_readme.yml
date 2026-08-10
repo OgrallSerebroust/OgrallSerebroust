@@ -42,8 +42,9 @@ jobs:
           echo "=== Git diff ==="
           git diff --stat
       - name: Update WakaTime stats
-        uses: anmol098/waka-readme-stats@master
+        uses: OgrallSerebroust/waka-readme-stats@feature/commit_enabled
         with:
+          COMMIT_ENABLED: "False"
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           IGNORED_REPOS: ""
           MAX_REPOS: "0"
