@@ -18,8 +18,8 @@ jobs:
           cards=(
             "api|stats_dark.svg|show_icons=true&theme=holi&show=prs_authored,prs_merged,prs_merged_percentage"
             "api|stats_light.svg|show_icons=true&theme=default&show=prs_authored,prs_merged,prs_merged_percentage"
-            "api/top-langs|top_langs_dark.svg|layout=donut&theme=holi"
-            "api/top-langs|top_langs_light.svg|layout=donut&theme=default"
+            "api/top-langs|top_langs_dark.svg|layout=donut&langs_count=6&theme=holi"
+            "api/top-langs|top_langs_light.svg|layout=donut&langs_count=6&theme=default"
           )
           for card in "${cards[@]}"; do
             IFS="|" read -r endpoint output params <<< "$card"
