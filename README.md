@@ -34,8 +34,8 @@
 </h2>
 <div align="center">
     <picture>
-        <source srcset="./assets/stats-dark.svg" media="(prefers-color-scheme: dark)" />
-        <img src="https://github-stats-extended.vercel.app/api?username=OgrallSerebroust&show_icons=true&show=prs_authored,prs_merged,prs_merged_percentage" /> <!-- light mode -->
+        <source srcset="./assets/stats_dark.svg" media="(prefers-color-scheme: dark)" />
+        <img src="./assets/stats_light.svg" /> <!-- light mode -->
     </picture>
     <picture>
         <!-- https://github-stats-extended.vercel.app/api?username=OgrallSerebroust&show_icons=true&theme=holi&show=prs_authored,prs_merged,prs_merged_percentage -->
