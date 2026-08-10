@@ -34,13 +34,12 @@
 </h2>
 <div align="center">
     <picture>
-        <source srcset="./assets/stats_dark.svg" media="(prefers-color-scheme: dark)" />
-        <img src="./assets/stats_light.svg" /> <!-- light mode -->
+        <source srcset="./assets/stats_dark.svg" media="(prefers-color-scheme: dark)" /> <!-- Dark mode -->
+        <img src="./assets/stats_light.svg" /> <!-- Light mode -->
     </picture>
     <picture>
-        <!-- https://github-stats-extended.vercel.app/api?username=OgrallSerebroust&show_icons=true&theme=holi&show=prs_authored,prs_merged,prs_merged_percentage -->
-        <source srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=OgrallSerebroust&layout=donut&theme=holi" media="(prefers-color-scheme: dark)" />
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=OgrallSerebroust&layout=donut" /> <!-- light mode -->
+        <source srcset="./assets/top_langs_dark.svg" media="(prefers-color-scheme: dark)" /> <!-- Dark mode -->
+        <img src="./assets/top_langs_light.svg" /> <!-- Light mode -->
     </picture>
 </div>
 
