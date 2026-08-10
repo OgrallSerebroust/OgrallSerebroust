@@ -1,0 +1,59 @@
+name: Update profile README
+on:
+  workflow_dispatch:
+jobs:
+  update-profile-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+      - name: Create assets directory if it doesn't exist
+        run: mkdir -p assets
+      - name: Download stats cards
+        env:
+          STATS_API_URL: https://github-stats-extended-silk.vercel.app
+        run: |
+          cards=(
+            "api|stats_dark.svg|show_icons=true&theme=holi&show=prs_authored,prs_merged,prs_merged_percentage"
+            "api|stats_light.svg|show_icons=true&theme=default&show=prs_authored,prs_merged,prs_merged_percentage"
+            "api/top-langs|top_langs_dark.svg|layout=donut&theme=holi"
+            "api/top-langs|top_langs_light.svg|layout=donut&theme=default"
+          )
+          for card in "${cards[@]}"; do
+            IFS="|" read -r endpoint output params <<< "$card"
+            curl --fail --location \
+              "${STATS_API_URL}/${endpoint}?username=${{ github.repository_owner }}&${params}" \
+              -o "assets/${output}"
+          done
+      - name: Download contribution graph
+        env:
+          GRAPH_API_URL: https://github-readme-activity-graph-beige-one.vercel.app
+        run: |
+          curl --fail --location \
+            "${GRAPH_API_URL}/graph?username=${{ github.repository_owner }}&theme=react-dark" \
+            -o "assets/contribution_graph_dark.svg"
+      - name: Update WakaTime stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          IGNORED_REPOS: ""
+          MAX_REPOS: "0"
+          SHOW_AI_CODE_TIME: "True"
+          SHOW_AI_CODING: "True"
+          SHOW_EDITORS: "True"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_LOC_CHART: "True"
+          SHOW_OS: "True"
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_SHORT_INFO: "True"
+          SHOW_TIMEZONE: "False"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_UPDATED_DATE: "False"
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
