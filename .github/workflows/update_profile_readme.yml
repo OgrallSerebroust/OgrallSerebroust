@@ -65,6 +65,20 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_UPDATED_DATE: "False"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      - name: Inspect workspace
+        run: |
+          echo "=== pwd ==="
+          pwd
+
+          echo "=== workspace ==="
+          ls -la
+
+          echo "=== README ==="
+          git status --short
+          git diff -- README.md
+
+          echo "=== directories ==="
+          find . -maxdepth 3 -type f -name "README.md" -print
       - name: Copy WakaTime README
         run: cp repo/README.md README.md
       - name: Commit profile README changes
