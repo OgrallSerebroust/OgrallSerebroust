@@ -50,7 +50,7 @@ My weekly coding statistic breakdown :muscle::
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%208%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20mins-blue?style=flat)
 
@@ -95,30 +95,30 @@ Sunday                   143 commits         ███████░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     4 hrs 21 mins       ███████████████░░░░░░░░░░   61.93 % 
-Python                   1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   28.38 % 
-Markdown                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Docker                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+YAML                     3 hrs 19 mins       ██████████████░░░░░░░░░░░   54.64 % 
+Python                   2 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   34.88 % 
+Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Docker                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  6 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-OgrallSerebroust         4 hrs 26 mins       ████████████████░░░░░░░░░   63.19 % 
-waka-readme-stats        2 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   36.79 % 
-TaskForLaretto           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+OgrallSerebroust         3 hrs 15 mins       █████████████░░░░░░░░░░░░   53.50 % 
+waka-readme-stats        2 hrs 49 mins       ████████████░░░░░░░░░░░░░   46.48 % 
+TaskForLaretto           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  7 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  6 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (7.67%)
+⏱ AI Coding Time: 32 mins (8.89%)
 
-✍️ 0 lines written by AI, 277 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 236 lines written by hand (0.0% AI-written)
 
 🔤 60,863 Input Tokens, 421 Output Tokens
 
