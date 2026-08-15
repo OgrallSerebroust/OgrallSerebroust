@@ -62,7 +62,7 @@ My weekly coding statistic breakdown :muscle::
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 77 Contributions in the Year 2026
+> 🏆 78 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -138,11 +138,11 @@ Github-Copilot           0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-CSS                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Prolog                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Python                   10 repos            █████████████░░░░░░░░░░░░   52.63 % 
+CSS                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Prolog                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
