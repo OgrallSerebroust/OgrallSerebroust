@@ -50,7 +50,7 @@ My weekly coding statistic breakdown :muscle::
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20mins-blue?style=flat)
 
@@ -95,46 +95,30 @@ Sunday                   143 commits         ███████░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 1 min         ███████████░░░░░░░░░░░░░░   43.65 % 
-YAML                     3 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   38.12 % 
-Markdown                 1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-Docker                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Python                   2 hrs 1 min         ████████████░░░░░░░░░░░░░   49.27 % 
+Markdown                 1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   26.91 % 
+YAML                     46 mins             █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-waka-readme-stats        4 hrs 12 mins       ███████████░░░░░░░░░░░░░░   45.62 % 
-OgrallSerebroust         3 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   35.17 % 
-hh_rob                   1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-ResizeService            12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Temp                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+waka-readme-stats        1 hr 37 mins        ██████████░░░░░░░░░░░░░░░   39.32 % 
+hh_rob                   1 hr 32 mins        █████████░░░░░░░░░░░░░░░░   37.46 % 
+OgrallSerebroust         35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+ResizeService            12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Temp                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 💻 Operating System: 
-Windows                  9 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 mins (5.85%)
-
-✍️ 0 lines written by AI, 266 lines written by hand (0.0% AI-written)
-
-🔤 60,863 Input Tokens, 421 Output Tokens
-
-💵 $0.19 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 94 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
