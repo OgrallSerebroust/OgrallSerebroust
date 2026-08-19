@@ -50,13 +50,13 @@ My weekly coding statistic breakdown :muscle::
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2018%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-231.77%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-232.81%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -73,21 +73,21 @@ My weekly coding statistic breakdown :muscle::
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-🌆 Daytime                99 commits          █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-🌃 Evening                329 commits         ████████████████░░░░░░░░░   63.88 % 
-🌙 Night                  70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+🌞 Morning                17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+🌆 Daytime                102 commits         █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+🌃 Evening                329 commits         ████████████████░░░░░░░░░   63.39 % 
+🌙 Night                  71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   79 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Tuesday                  93 commits          █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Wednesday                45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-Thursday                 30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Friday                   72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Saturday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Sunday                   138 commits         ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+Monday                   79 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Tuesday                  94 commits          █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Wednesday                47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Thursday                 30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Friday                   72 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Saturday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Sunday                   139 commits         ███████░░░░░░░░░░░░░░░░░░   26.78 % 
 ```
 
 
@@ -95,24 +95,24 @@ Sunday                   138 commits         ███████░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 1 min         ████████████░░░░░░░░░░░░░   49.27 % 
-Markdown                 1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   26.91 % 
-YAML                     46 mins             █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Python                   2 hrs 13 mins       █████████████░░░░░░░░░░░░   50.03 % 
+Markdown                 1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+YAML                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Git Config               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-waka-readme-stats        1 hr 37 mins        ██████████░░░░░░░░░░░░░░░   39.32 % 
-hh_rob                   1 hr 32 mins        █████████░░░░░░░░░░░░░░░░   37.46 % 
-OgrallSerebroust         35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-ResizeService            12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Temp                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+waka-readme-stats        1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   41.98 % 
+hh_rob                   1 hr 32 mins        █████████░░░░░░░░░░░░░░░░   34.88 % 
+ResizeService            49 mins             █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Temp                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+VERBAGroupParser         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 💻 Operating System: 
-Windows                  4 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
