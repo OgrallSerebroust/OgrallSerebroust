@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Stefan Klepikow&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 74, Total PRs: 68, Total PRs Merged: 64, Merged PRs Percentage: 94.12, Total Issues: 0, PRs Created: 68, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 74, Total PRs: 56, Total PRs Merged: 52, Merged PRs Percentage: 92.86, Total Issues: 0, PRs Created: 56, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 203.29985183301108;
+        stroke-dashoffset: 207.7302222702946;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >68</text>
+      >56</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged"
-      >64</text>
+      >52</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >94.12 %</text>
+      >92.86 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -259,7 +259,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_authored"
-      >68</text></a>
+      >56</text></a>
     </g>
   </g><g transform="translate(0, 175)">
     <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
