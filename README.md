@@ -50,7 +50,7 @@ My weekly coding statistic breakdown :muscle::
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2046%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20mins-blue?style=flat)
 
@@ -95,24 +95,24 @@ Sunday                   136 commits         ███████░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   36.11 % 
-Markdown                 2 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   35.78 % 
-YAML                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Git Config               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-TOML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Python                   2 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   39.48 % 
+Markdown                 2 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   33.73 % 
+YAML                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Git Config               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+TOML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ResizeService            2 hrs 57 mins       ███████████░░░░░░░░░░░░░░   45.22 % 
-waka-readme-stats        1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   27.85 % 
-hh_rob                   1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-Temp                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-VERBAGroupParser         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+ResizeService            3 hrs 6 mins        ███████████░░░░░░░░░░░░░░   44.75 % 
+waka-readme-stats        1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   26.22 % 
+hh_rob                   1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
+network_scan             11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Temp                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 💻 Operating System: 
-Windows                  6 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
