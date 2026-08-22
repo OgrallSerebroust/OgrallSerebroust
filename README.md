@@ -50,7 +50,7 @@ My weekly coding statistic breakdown :muscle::
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%205%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20mins-blue?style=flat)
 
@@ -95,24 +95,24 @@ Sunday                   136 commits         █████████░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   39.48 % 
-Markdown                 2 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   33.73 % 
-YAML                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Git Config               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-TOML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Markdown                 2 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   38.41 % 
+Python                   1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+YAML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Git Config               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 56 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ResizeService            3 hrs 6 mins        ███████████░░░░░░░░░░░░░░   44.75 % 
-waka-readme-stats        1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   26.22 % 
-hh_rob                   1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-network_scan             11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-Temp                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+ResizeService            3 hrs 3 mins        ██████████████░░░░░░░░░░░   56.70 % 
+OceanPage                52 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+waka-readme-stats        26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+PasswordGenerator        22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+GalasJob                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 💻 Operating System: 
-Windows                  6 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
