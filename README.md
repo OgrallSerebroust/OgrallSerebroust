@@ -95,24 +95,24 @@ Sunday                   136 commits         █████████░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   41.14 % 
-Python                   1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   26.24 % 
-Git Config               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Markdown                 2 hrs 4 mins        ████████████░░░░░░░░░░░░░   49.87 % 
+Python                   1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Text                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+TOML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ResizeService            3 hrs 3 mins        ███████████████░░░░░░░░░░   60.73 % 
-OceanPage                52 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-PasswordGenerator        22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-waka-readme-stats        14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-GalasJob                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+ResizeService            2 hrs 26 mins       ███████████████░░░░░░░░░░   59.00 % 
+OceanPage                52 mins             █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+PasswordGenerator        22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+GalasJob                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+network_scan             11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 💻 Operating System: 
-Windows                  5 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
