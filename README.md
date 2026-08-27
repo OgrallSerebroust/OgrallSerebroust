@@ -95,24 +95,24 @@ Sunday                   136 commits         █████████░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 4 mins        ████████████░░░░░░░░░░░░░   49.87 % 
-Python                   1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Text                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-TOML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Python                   52 mins             ███████████░░░░░░░░░░░░░░   43.21 % 
+Markdown                 44 mins             █████████░░░░░░░░░░░░░░░░   36.88 % 
+Other                    19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 8 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ResizeService            2 hrs 26 mins       ███████████████░░░░░░░░░░   59.00 % 
-OceanPage                52 mins             █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-PasswordGenerator        22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-GalasJob                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-network_scan             11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+OceanPage                52 mins             ███████████░░░░░░░░░░░░░░   43.63 % 
+PasswordGenerator        22 mins             █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+ResizeService            18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+GalasJob                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+network_scan             11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
 
 💻 Operating System: 
-Windows                  4 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
