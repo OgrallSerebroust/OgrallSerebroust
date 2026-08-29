@@ -95,24 +95,16 @@ Sunday                   136 commits         █████████░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 44 mins             ████████████░░░░░░░░░░░░░   46.04 % 
-Python                   29 mins             ████████░░░░░░░░░░░░░░░░░   30.43 % 
-Other                    18 mins             █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 36 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-OceanPage                48 mins             █████████████░░░░░░░░░░░░   50.50 % 
-PasswordGenerator        22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
-GalasJob                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-ResizeService            9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-APPTRIX_work_test        3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 36 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
