@@ -95,16 +95,23 @@ Sunday                   136 commits         █████████░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      12 mins             █████████████░░░░░░░░░░░░   50.45 % 
+Python                   4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+SQL                      3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+HTML                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          16 mins             ████████████████░░░░░░░░░   65.36 % 
+AFinA                    4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+templates                2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+hh_rob                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  24 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
