@@ -62,32 +62,32 @@ My weekly coding statistic breakdown :muscle::
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 82 Contributions in the Year 2026
+> 🏆 86 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 8 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-🌆 Daytime                93 commits          ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-🌃 Evening                263 commits         █████████████████░░░░░░░░   69.03 % 
-🌙 Night                  18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+🌞 Morning                7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+🌆 Daytime                93 commits          ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+🌃 Evening                265 commits         █████████████████░░░░░░░░   69.19 % 
+🌙 Night                  18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   61 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Tuesday                  82 commits          █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-Wednesday                21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Thursday                 12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Friday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Saturday                 42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Sunday                   136 commits         █████████░░░░░░░░░░░░░░░░   35.70 % 
+Monday                   61 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Tuesday                  82 commits          █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+Wednesday                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Thursday                 12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Friday                   27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Saturday                 42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Sunday                   136 commits         █████████░░░░░░░░░░░░░░░░   35.51 % 
 ```
 
 
@@ -95,23 +95,24 @@ Sunday                   136 commits         █████████░░�
 
 ```text
 💬 Programming Languages: 
-C++                      21 mins             █████████████░░░░░░░░░░░░   50.48 % 
-Python                   13 mins             ████████░░░░░░░░░░░░░░░░░   30.83 % 
-SQL                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+TypeScript               3 hrs 4 mins        █████████████░░░░░░░░░░░░   51.15 % 
+YAML                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+SCSS                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+JavaScript               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Python                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   100.00 % 
+VS Code                  6 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          34 mins             ████████████████████░░░░░   79.82 % 
-AFinA                    4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-templates                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-hh_rob                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+TaskForLaretto           4 hrs 56 mins       █████████████████████░░░░   82.37 % 
+Unknown Project          34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+AFinA                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+templates                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+hh_rob                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 💻 Operating System: 
-Windows                  42 mins             █████████████████████████   100.00 % 
+Windows                  6 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
