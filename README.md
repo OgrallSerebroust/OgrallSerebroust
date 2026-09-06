@@ -95,24 +95,24 @@ Sunday                   136 commits         █████████░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 8 mins        █████████████░░░░░░░░░░░░   51.45 % 
-YAML                     1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-SCSS                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-JavaScript               32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Python                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+TypeScript               5 hrs 39 mins       ████████████░░░░░░░░░░░░░   49.80 % 
+YAML                     1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+JavaScript               1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+SCSS                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Python                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  11 hrs 22 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TaskForLaretto           6 hrs 29 mins       ████████████████████░░░░░   80.64 % 
-AFinA                    51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Unknown Project          34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-OgrallSerebroust         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-templates                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+TaskForLaretto           9 hrs 49 mins       ██████████████████████░░░   86.31 % 
+AFinA                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+Unknown Project          34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+OgrallSerebroust         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+templates                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Windows                  8 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  11 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
