@@ -95,24 +95,23 @@ Sunday                   136 commits         █████████░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 27 mins       ██████████████░░░░░░░░░░░   55.50 % 
-YAML                     2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-JavaScript               1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-SCSS                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+TypeScript               7 hrs 27 mins       ██████████████░░░░░░░░░░░   56.74 % 
+YAML                     2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+JavaScript               1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+SCSS                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 26 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 9 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TaskForLaretto           12 hrs 18 mins      ███████████████████████░░   91.52 % 
-AFinA                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+TaskForLaretto           12 hrs 18 mins      ███████████████████████░░   93.57 % 
+AFinA                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 OgrallSerebroust         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 OceanPage                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Windows                  13 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
