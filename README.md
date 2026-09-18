@@ -95,20 +95,19 @@ Sunday                   136 commits         █████████░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 39 mins       ██████████████░░░░░░░░░░░   56.72 % 
-YAML                     1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-SCSS                     1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+TypeScript               2 hrs 1 min         ███████████░░░░░░░░░░░░░░   45.42 % 
+SCSS                     1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   29.12 % 
+YAML                     1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TaskForLaretto           6 hrs 27 mins       █████████████████████████   100.00 % 
+TaskForLaretto           4 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
