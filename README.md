@@ -17,9 +17,12 @@
     <img alt="Django" src="https://www.svgrepo.com/show/373554/django.svg" width="50">
     <img alt="PHP" src="https://www.svgrepo.com/show/349474/php.svg" width="50">
     <img alt="Yii" src="https://www.svgrepo.com/show/354591/yii.svg" width="50">
+    <img alt="React" src="https://www.svgrepo.com/show/452092/react.svg" width="50">
+    <img alt="TypeScript" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" width="50">
     <img alt="JS" src="https://www.svgrepo.com/show/373705/js-official.svg" width="50">
     <img alt="HTML" src="https://www.svgrepo.com/show/452228/html-5.svg" width="50">
     <img alt="CSS" src="https://www.svgrepo.com/show/452185/css-3.svg" width="50">
+    <img alt="Scss" src="https://www.svgrepo.com/show/374067/scss2.svg" width="50">
     <img alt="SQL" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="50">
     <img alt="MongoDB" src="https://www.svgrepo.com/show/331488/mongodb.svg" width="50">
     <img alt="Neo4j" src="https://www.svgrepo.com/show/354103/neo4j.svg" width="50">
