@@ -98,22 +98,22 @@ Sunday                   166 commits         █████████░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   36.15 % 
-Markdown                 3 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.61 % 
-YAML                     1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-SCSS                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Markdown                 3 hrs 19 mins       ███████████░░░░░░░░░░░░░░   43.08 % 
+TypeScript               1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+YAML                     1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Git Config               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 36 mins      █████████████████████████   100.00 % 
+VS Code                  7 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TaskForLaretto           11 hrs 17 mins      ████████████████████████░   97.40 % 
-OgrallSerebroust         17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-OceanPage                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+TaskForLaretto           7 hrs 24 mins       ████████████████████████░   96.09 % 
+OgrallSerebroust         17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+OceanPage                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Windows                  11 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  7 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
