@@ -98,21 +98,16 @@ Sunday                   166 commits         █████████░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 38 mins             ██████████████░░░░░░░░░░░   54.90 % 
-YAML                     25 mins             █████████░░░░░░░░░░░░░░░░   36.80 % 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Markdown                 17 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TaskForLaretto           52 mins             ███████████████████░░░░░░   74.91 % 
-OgrallSerebroust         17 mins             ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+OgrallSerebroust         17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
