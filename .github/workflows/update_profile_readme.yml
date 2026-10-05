@@ -29,13 +29,20 @@ jobs:
               "${STATS_API_URL}/${endpoint}?username=${{ github.repository_owner }}&${params}" \
               -o "assets/${output}"
           done
-      - name: Download contribution graph
+      - name: Download contribution graphs
         env:
           GRAPH_API_URL: https://github-readme-activity-graph-beige-one.vercel.app
         run: |
-          curl --fail --location \
-            "${GRAPH_API_URL}/graph?username=${{ github.repository_owner }}&theme=react-dark" \
-            -o "assets/contribution_graph_dark.svg"
+          graphs=(
+            "theme=react-dark|contribution_graph_dark.svg"
+            "theme=minimal|contribution_graph.svg"
+          )
+          for graph in "${graphs[@]}"; do
+            IFS="|" read -r params output <<< "$graph"
+            curl --fail --location \
+              "${GRAPH_API_URL}/graph?username=${{ github.repository_owner }}&${params}" \
+              -o "assets/${output}"
+          done
       - name: Update WakaTime stats
         uses: OgrallSerebroust/waka-readme-stats@bugfix/commit_enabled_local # TODO: Switch to main branch and repo if PR will be merged
         with:

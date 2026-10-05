@@ -51,9 +51,6 @@
         <img src="./assets/contribution_graph.svg" /> <!-- Light mode TODO ???-->
     </picture>
 </div>
-
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph-beige-one.vercel.app/graph?username=OgrallSerebroust&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
 <h2>
 My weekly coding statistic breakdown :muscle::
 </h2>
