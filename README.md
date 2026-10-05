@@ -13,24 +13,24 @@
     My Skills :computer::
 </h2>
 <div align="center">
-    <img alt="Python" src="https://www.svgrepo.com/show/452091/python.svg" width="50">
-    <img alt="Django" src="https://www.svgrepo.com/show/373554/django.svg" width="50">
-    <img alt="PHP" src="https://www.svgrepo.com/show/349474/php.svg" width="50">
-    <img alt="Yii" src="https://www.svgrepo.com/show/354591/yii.svg" width="50">
-    <img alt="React" src="https://www.svgrepo.com/show/452092/react.svg" width="50">
-    <img alt="TypeScript" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" width="50">
-    <img alt="JS" src="https://www.svgrepo.com/show/373705/js-official.svg" width="50">
-    <img alt="HTML" src="https://www.svgrepo.com/show/452228/html-5.svg" width="50">
-    <img alt="CSS" src="https://www.svgrepo.com/show/452185/css-3.svg" width="50">
-    <img alt="Scss" src="https://www.svgrepo.com/show/374067/scss2.svg" width="50">
-    <img alt="SQL" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="50">
-    <img alt="MongoDB" src="https://www.svgrepo.com/show/331488/mongodb.svg" width="50">
-    <img alt="Neo4j" src="https://www.svgrepo.com/show/354103/neo4j.svg" width="50">
-    <img alt="ClickHouse" src="https://static.cdnlogo.com/logos/c/57/clickhouse.svg" width="50">
-    <img alt="Redis" src="https://www.svgrepo.com/show/354272/redis.svg" width="50">
-    <img alt="RabbitMQ" src="https://www.svgrepo.com/show/354250/rabbitmq-icon.svg" width="50">
-    <img alt="Docker" src="https://www.svgrepo.com/show/452192/docker.svg" width="50">
-    <img alt="Git" src="https://www.svgrepo.com/show/452210/git.svg" width="50">
+    <img alt="Python" src="assets/skills/python.svg" width="50">
+    <img alt="Django" src="assets/skills/django.svg" width="50">
+    <img alt="PHP" src="assets/skills/php.svg" width="50">
+    <img alt="Yii" src="assets/skills/yii.svg" width="50">
+    <img alt="React" src="assets/skills/react.svg" width="50">
+    <img alt="TypeScript" src="assets/skills/typescript.svg" width="50">
+    <img alt="JS" src="assets/skills/js.svg" width="50">
+    <img alt="HTML" src="assets/skills/html-5.svg" width="50">
+    <img alt="CSS" src="assets/skills/css-3.svg" width="50">
+    <img alt="Scss" src="assets/skills/scss2.svg" width="50">
+    <img alt="SQL" src="assets/skills/sql-database.svg" width="50">
+    <img alt="MongoDB" src="assets/skills/mongodb.svg" width="50">
+    <img alt="Neo4j" src="assets/skills/neo4j.svg" width="50">
+    <img alt="ClickHouse" src="assets/skills/clickhouse.svg" width="50">
+    <img alt="Redis" src="assets/skills/redis.svg" width="50">
+    <img alt="RabbitMQ" src="assets/skills/rabbitmq.svg" width="50">
+    <img alt="Docker" src="assets/skills/docker.svg" width="50">
+    <img alt="Git" src="assets/skills/git.svg" width="50">
 </div>
 <h2>
     My GitHub statistics :bar_chart::
