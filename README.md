@@ -68,7 +68,7 @@ My weekly coding statistic breakdown :muscle::
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 95 Contributions in the Year 2026
+> 🏆 96 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -79,21 +79,21 @@ My weekly coding statistic breakdown :muscle::
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-🌆 Daytime                117 commits         ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
-🌃 Evening                327 commits         █████████████████░░░░░░░░   68.12 % 
-🌙 Night                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+🌞 Morning                9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+🌆 Daytime                122 commits         ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+🌃 Evening                327 commits         █████████████████░░░░░░░░   67.42 % 
+🌙 Night                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   85 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Tuesday                  102 commits         █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
-Wednesday                30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Thursday                 17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Friday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Saturday                 50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Sunday                   166 commits         █████████░░░░░░░░░░░░░░░░   34.58 % 
+Monday                   90 commits          █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+Tuesday                  102 commits         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Wednesday                30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Thursday                 17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Friday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Saturday                 50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Sunday                   166 commits         █████████░░░░░░░░░░░░░░░░   34.23 % 
 ```
 
 
@@ -101,16 +101,21 @@ Sunday                   166 commits         █████████░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 22 mins        █████████████░░░░░░░░░░░░   53.70 % 
+Python                   47 mins             ████████░░░░░░░░░░░░░░░░░   31.22 % 
+YAML                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+OgrallSerebroust         1 hr 43 mins        █████████████████░░░░░░░░   67.56 % 
+hh_rob                   49 mins             ████████░░░░░░░░░░░░░░░░░   32.44 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
