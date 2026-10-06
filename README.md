@@ -56,44 +56,44 @@ My weekly coding statistic breakdown :muscle::
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2018%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-77.46%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-78.68%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 96 Contributions in the Year 2026
+> 🏆 107 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 10 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-🌆 Daytime                122 commits         ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
-🌃 Evening                327 commits         █████████████████░░░░░░░░   67.42 % 
-🌙 Night                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+🌞 Morning                9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+🌆 Daytime                125 commits         ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+🌃 Evening                334 commits         █████████████████░░░░░░░░   67.47 % 
+🌙 Night                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   90 commits          █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Tuesday                  102 commits         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-Wednesday                30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Thursday                 17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Friday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Saturday                 50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Sunday                   166 commits         █████████░░░░░░░░░░░░░░░░   34.23 % 
+Monday                   92 commits          █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Tuesday                  107 commits         █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+Wednesday                31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Thursday                 17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Friday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Saturday                 50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Sunday                   166 commits         ████████░░░░░░░░░░░░░░░░░   33.54 % 
 ```
 
 
@@ -127,10 +127,10 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   3 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Python                   4 repos             ██████████████░░░░░░░░░░░   57.14 % 
+TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
 
 
