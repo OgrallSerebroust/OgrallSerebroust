@@ -101,21 +101,23 @@ Sunday                   166 commits         ████████░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 22 mins        █████████████░░░░░░░░░░░░   53.70 % 
-Python                   47 mins             ████████░░░░░░░░░░░░░░░░░   31.22 % 
-YAML                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Markdown                 2 hrs 53 mins       █████████████████░░░░░░░░   68.75 % 
+Python                   48 mins             █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-OgrallSerebroust         1 hr 43 mins        █████████████████░░░░░░░░   67.56 % 
-hh_rob                   49 mins             ████████░░░░░░░░░░░░░░░░░   32.44 % 
+hh_rob                   2 hrs 24 mins       ██████████████░░░░░░░░░░░   56.95 % 
+OgrallSerebroust         1 hr 43 mins        ██████████░░░░░░░░░░░░░░░   40.83 % 
+TaskForLaretto           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+main_gate                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 💻 Operating System: 
-Windows                  2 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
