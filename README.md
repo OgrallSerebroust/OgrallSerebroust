@@ -56,7 +56,7 @@ My weekly coding statistic breakdown :muscle::
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2013%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20mins-blue?style=flat)
 
@@ -101,23 +101,22 @@ Sunday                   166 commits         ████████░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 53 mins       █████████████████░░░░░░░░   68.75 % 
-Python                   48 mins             █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-YAML                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Markdown                 1 hr 31 mins        ████████████████████░░░░░   79.70 % 
+JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 55 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hh_rob                   2 hrs 24 mins       ██████████████░░░░░░░░░░░   56.95 % 
-OgrallSerebroust         1 hr 43 mins        ██████████░░░░░░░░░░░░░░░   40.83 % 
-TaskForLaretto           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-main_gate                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+hh_rob                   1 hr 40 mins        ██████████████████████░░░   87.40 % 
+TaskForLaretto           12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+main_gate                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 💻 Operating System: 
-Windows                  4 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
