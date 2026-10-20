@@ -101,22 +101,21 @@ Sunday                   166 commits         ████████░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 25 mins        ██████████░░░░░░░░░░░░░░░   40.32 % 
-HTML                     56 mins             ███████░░░░░░░░░░░░░░░░░░   26.50 % 
-JSON                     38 mins             █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Python                   1 hr 22 mins        ██████████░░░░░░░░░░░░░░░   41.66 % 
+HTML                     56 mins             ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+JSON                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hh_rob                   1 hr 47 mins        █████████████░░░░░░░░░░░░   50.44 % 
-main_gate                1 hr 36 mins        ███████████░░░░░░░░░░░░░░   45.35 % 
-TaskForLaretto           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+hh_rob                   1 hr 40 mins        █████████████░░░░░░░░░░░░   51.16 % 
+main_gate                1 hr 36 mins        ████████████░░░░░░░░░░░░░   48.84 % 
 
 💻 Operating System: 
-Windows                  3 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
