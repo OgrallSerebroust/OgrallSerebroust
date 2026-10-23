@@ -68,7 +68,7 @@ My weekly coding statistic breakdown :muscle::
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 108 Contributions in the Year 2026
+> 🏆 110 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -101,21 +101,24 @@ Sunday                   166 commits         ████████░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     5 hrs 13 mins       █████████████████████░░░░   82.41 % 
-JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Python                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+HTML                     4 hrs 44 mins       ██████████████████░░░░░░░   70.23 % 
+Python                   1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+TOML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-main_gate                6 hrs 19 mins       █████████████████████████   99.99 % 
-hh_rob                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+main_gate                4 hrs 55 mins       ██████████████████░░░░░░░   72.91 % 
+AFinA                    1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+hh_rob                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+TaskForLaretto           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+AFinATemp                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 💻 Operating System: 
-Windows                  6 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
