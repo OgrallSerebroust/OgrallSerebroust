@@ -101,24 +101,24 @@ Sunday                   166 commits         ████████░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     4 hrs 43 mins       █████████████░░░░░░░░░░░░   52.49 % 
-Python                   3 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   39.33 % 
-TOML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-Protocol Buffer          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Python                   4 hrs 28 mins       ██████████████░░░░░░░░░░░   57.57 % 
+HTML                     2 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   34.25 % 
+TOML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Protocol Buffer          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 46 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-main_gate                4 hrs 53 mins       ██████████████░░░░░░░░░░░   54.40 % 
-AFinA                    3 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   41.54 % 
-hh_rob                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-AFinATemp                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-TaskForLaretto           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+AFinA                    3 hrs 58 mins       █████████████░░░░░░░░░░░░   51.19 % 
+main_gate                2 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   35.18 % 
+hh_rob                   53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+AFinATemp                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+TaskForLaretto           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 💻 Operating System: 
-Windows                  8 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
