@@ -101,22 +101,22 @@ Sunday                   166 commits         ████████░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 24 mins       ████████████████████████░   96.51 % 
-Protocol Buffer          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   2 hrs 54 mins       ██████████████████████░░░   87.89 % 
+Protocol Buffer          15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 19 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AFinA                    2 hrs 46 mins       ████████████████████░░░░░   78.76 % 
-hh_rob                   41 mins             █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-AFinATemp                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+AFinA                    2 hrs 34 mins       ███████████████████░░░░░░   77.42 % 
+hh_rob                   41 mins             █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+AFinATemp                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 💻 Operating System: 
-Windows                  3 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
