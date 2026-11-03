@@ -56,11 +56,7 @@ My weekly coding statistic breakdown :muscle::
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%2024%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-128.47%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -68,7 +64,7 @@ My weekly coding statistic breakdown :muscle::
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 110 Contributions in the Year 2026
+> 🏆 113 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -76,55 +72,6 @@ My weekly coding statistic breakdown :muscle::
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-🌆 Daytime                134 commits         ███████░░░░░░░░░░░░░░░░░░   26.48 % 
-🌃 Evening                336 commits         █████████████████░░░░░░░░   66.40 % 
-🌙 Night                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   92 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Tuesday                  109 commits         █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-Wednesday                32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-Thursday                 23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Friday                   34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-Saturday                 50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Sunday                   166 commits         ████████░░░░░░░░░░░░░░░░░   32.81 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   2 hrs 54 mins       ██████████████████████░░░   87.89 % 
-Protocol Buffer          15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 19 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-AFinA                    2 hrs 34 mins       ███████████████████░░░░░░   77.42 % 
-hh_rob                   41 mins             █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-AFinATemp                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-
-💻 Operating System: 
-Windows                  3 hrs 19 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
