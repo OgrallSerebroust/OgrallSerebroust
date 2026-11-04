@@ -101,21 +101,22 @@ Sunday                   166 commits         ████████░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 37 mins        █████████████████████░░░░   84.44 % 
-Protocol Buffer          11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Python                   48 mins             █████████████████░░░░░░░░   69.40 % 
+Protocol Buffer          11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🔥 Editors: 
-VS Code                  1 hr 54 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AFinA                    1 hr 13 mins        ████████████████░░░░░░░░░   63.68 % 
-hh_rob                   41 mins             █████████░░░░░░░░░░░░░░░░   36.32 % 
+AFinA                    1 hr 9 mins         █████████████████████████   99.92 % 
+OgrallSerebroust         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+hh_rob                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  1 hr 54 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
