@@ -101,21 +101,18 @@ Sunday                   166 commits         ████████░░░�
 
 ```text
 💬 Programming Languages: 
-Docker                   1 hr 59 mins        ███████████░░░░░░░░░░░░░░   44.71 % 
-YAML                     1 hr 43 mins        ██████████░░░░░░░░░░░░░░░   38.77 % 
-Python                   31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-TOML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Docker                   1 hr 17 mins        ████████████████████░░░░░   78.63 % 
+YAML                     20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 38 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AFinA                    4 hrs 15 mins       ████████████████████████░   95.56 % 
-TaskForLaretto           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+AFinA                    1 hr 38 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 38 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
