@@ -56,11 +56,11 @@ My weekly coding statistic breakdown :muscle::
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2035%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-128.50%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -101,18 +101,19 @@ Sunday                   166 commits         ████████░░░�
 
 ```text
 💬 Programming Languages: 
-Docker                   1 hr 17 mins        ████████████████████░░░░░   78.63 % 
-YAML                     20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Docker                   55 mins             ██████████████████░░░░░░░   72.83 % 
+Python                   14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+YAML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
 
 🔥 Editors: 
-VS Code                  1 hr 38 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 16 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AFinA                    1 hr 38 mins        █████████████████████████   100.00 % 
+AFinA                    1 hr 1 min          ████████████████████░░░░░   80.69 % 
+hh_rob                   14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
 
 💻 Operating System: 
-Windows                  1 hr 38 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
