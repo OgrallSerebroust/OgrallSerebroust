@@ -56,11 +56,11 @@ My weekly coding statistic breakdown :muscle::
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-128.50%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -101,19 +101,21 @@ Sunday                   166 commits         ████████░░░�
 
 ```text
 💬 Programming Languages: 
-Docker                   55 mins             ██████████████████░░░░░░░   72.83 % 
-Python                   14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-YAML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Docker                   3 hrs               ██████████████████░░░░░░░   73.30 % 
+YAML                     48 mins             █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  1 hr 16 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AFinA                    1 hr 1 min          ████████████████████░░░░░   80.69 % 
-hh_rob                   14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+AFinA                    3 hrs 51 mins       ████████████████████████░   94.04 % 
+hh_rob                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 
 💻 Operating System: 
-Windows                  1 hr 16 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
