@@ -101,22 +101,23 @@ Sunday                   166 commits         ████████░░░�
 
 ```text
 💬 Programming Languages: 
-Docker                   3 hrs 45 mins       ██████████████████░░░░░░░   70.07 % 
-YAML                     1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
-Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Docker                   4 hrs 26 mins       ██████████████████░░░░░░░   70.19 % 
+YAML                     1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 19 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AFinA                    5 hrs 7 mins        ████████████████████████░   95.43 % 
-hh_rob                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+AFinA                    6 hrs               ████████████████████████░   95.01 % 
+hh_rob                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+TaskForLaretto           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 AFinA-chore-set-up-backen0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  5 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
