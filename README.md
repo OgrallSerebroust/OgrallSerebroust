@@ -56,9 +56,9 @@ My weekly coding statistic breakdown :muscle::
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -101,28 +101,44 @@ Sunday                   166 commits         ████████░░░�
 
 ```text
 💬 Programming Languages: 
-Docker                   3 hrs 30 mins       █████████████████░░░░░░░░   69.53 % 
-YAML                     1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+YAML                     2 hrs 7 mins        ████████████░░░░░░░░░░░░░   47.93 % 
+Docker                   1 hr 36 mins        █████████░░░░░░░░░░░░░░░░   36.27 % 
+Git Config               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AFinA                    4 hrs 59 mins       █████████████████████████   98.59 % 
-TaskForLaretto           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+AFinA                    4 hrs 21 mins       █████████████████████████   98.39 % 
+TaskForLaretto           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 AFinA-chore-set-up-backen0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  5 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 10 mins (3.88%)
+
+✍️ 0 lines written by AI, 501 lines written by hand (0.0% AI-written)
+
+🔤 11,588 Input Tokens, 490 Output Tokens
+
+💵 $0.20 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 704 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
