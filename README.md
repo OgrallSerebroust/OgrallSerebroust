@@ -56,9 +56,9 @@ My weekly coding statistic breakdown :muscle::
 </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -101,44 +101,45 @@ Sunday                   166 commits         ████████░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     2 hrs 7 mins        ████████████░░░░░░░░░░░░░   47.93 % 
-Docker                   1 hr 36 mins        █████████░░░░░░░░░░░░░░░░   36.27 % 
-Git Config               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+YAML                     1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   28.29 % 
+HTML                     1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+CSS                      1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+Docker                   51 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Git Config               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 25 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 26 mins       ████████████████████████░   95.39 % 
+Codex Vscode             15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 
 🐱‍💻 Projects: 
-AFinA                    4 hrs 21 mins       █████████████████████████   98.39 % 
-TaskForLaretto           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-AFinA-chore-set-up-backen0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+AFinA                    3 hrs 5 mins        ██████████████░░░░░░░░░░░   54.28 % 
+main_gate                2 hrs 32 mins       ███████████░░░░░░░░░░░░░░   44.48 % 
+TaskForLaretto           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 💻 Operating System: 
-Windows                  4 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (3.88%)
+⏱ AI Coding Time: 38 mins (11.32%)
 
-✍️ 0 lines written by AI, 501 lines written by hand (0.0% AI-written)
+✍️ 22 lines written by AI, 1,585 lines written by hand (1.37% AI-written)
 
-🔤 11,588 Input Tokens, 490 Output Tokens
+🔤 75,751 Input Tokens, 7,567 Output Tokens
 
-💵 $0.20 Estimated AI Cost This Week
+💵 $2.53 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 2 AI Sessions, 7 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      22 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 704 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 1.37% of written lines came from AI
+📝 Concise Prompter — average 315 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 98.9% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
